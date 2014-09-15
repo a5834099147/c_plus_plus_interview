@@ -3,6 +3,8 @@
 
 using namespace std;
 
+void func(void);
+
 void func(void)
 {
     unsigned int a = 6;
